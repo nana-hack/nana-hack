@@ -85,15 +85,15 @@ Intelligent resume parsing solution using **spaCy** NLP library. Extracts and or
 **Tech Stack:** Python, spaCy, NLP  
 **Highlights:** Information extraction, data structuring, AI-powered analysis
 
-### 🌐 [Personal Website](https://github.com/nana-hack/MY-PERSONAL-WEBSITE)
+### 🌐 [Personal Website]
 A clean and modern personal portfolio website showcasing my projects and skills.
 
 **Tech Stack:** HTML5, CSS3, JavaScript
 
-### 🎌 [Anime Website](https://github.com/nana-hack/anime-website-)
+### 🎌 [Anime Website]
 A curated anime platform celebrating my passion for isekai and anime content.
 
-**Tech Stack:** HTML5, CSS3, JavaScript
+**Tech Stack:** HTML5, CSS3, JavaScript,python
 
 ---
 
@@ -124,8 +124,8 @@ A curated anime platform celebrating my passion for isekai and anime content.
 Let's build amazing things together! Find me on:
 
 - **LinkedIn:** [Nana Kwame Amporful](https://www.linkedin.com/in/nana-kwame-amporful)
-- **YouTube:** [@InfotactSolution](https://www.youtube.com/@InfotactSolution)
-- **Organization:** [@InfotactSolution](https://github.com/InfotactSolution)
+- **YouTube:** [Amps Nation](https://www.youtube.com/@ampsnation2655)
+
 
 ---
 
@@ -134,7 +134,7 @@ Let's build amazing things together! Find me on:
 - 🎌 **Anime Enthusiast:** I'm a huge fan of **isekai anime** and long-running **Chinese animation series** with epic task-based adventures!
 - 🎬 **Content Creator:** I craft engaging AMVs (Anime Music Videos) with professional production quality
 - 💾 **Tech-Anime Fusion:** I love exploring how technology and creative storytelling intersect
-- 🌍 **Lifelong Learner:** Constantly expanding my knowledge in both networking and development
+- 🌍 **Lifelong Learner:** Constantly expanding my knowledge in both networking and software development
 
 ---
 
@@ -170,4 +170,4 @@ If you find value in my projects and would like to support my journey:
 
 </div>
 
-<!-- Proudly created with GitHub Copilot -->
+
