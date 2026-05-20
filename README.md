@@ -93,7 +93,7 @@ A clean and modern personal portfolio website showcasing my projects and skills.
 ### 🎌 [Anime Website]
 A curated anime platform celebrating my passion for isekai and anime content.
 
-**Tech Stack:** HTML5, CSS3, JavaScript,python
+**Tech Stack:** HTML5, CSS3, JavaScript, Python ,React
 
 ---
 
