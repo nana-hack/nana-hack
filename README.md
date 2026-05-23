@@ -14,8 +14,8 @@ I'm a tech enthusiast with a strong background in **network administration**, cu
 
 - **🔭 Working On:** Advancing my network administration skills while mastering complex networking protocols like STP as part of my CCNA certification journey
 - **🌱 Learning:** Advanced networking concepts, protocol evolution, and deepening my full-stack development capabilities
-- **🎬 Creating:** Engaging Anime Music Videos (AMVs) with professional editing techniques
-- **💻 Building:** Interactive data analysis dashboards and web applications
+- **🎬 Creating:** Engaging Anime Music Videos (AMVs) with professional editing techniques.
+- **💻 Building:** Interactive data analysis dashboards and web applications.
 
 ---
 
